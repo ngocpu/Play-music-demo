@@ -58,7 +58,7 @@ header h4{
 }
 header h2{
     font-size: 25px;
-    color: var(--white-color);
+    color:var(--white-color);
 }
 .cd{
     display: flex;
