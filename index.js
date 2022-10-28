@@ -18,22 +18,28 @@ let app ={
     isRepeat:false,
     songs:[
         {
-            name:"Heartbreak Melody",
-            singer:"Hospital Playlist",
-            source:"./asset/music/hp04.mp3",
-            ing:"./asset/img/hp04.jpg"
-        },
-        {
-            name:"Chờ Đợi Có Đáng Sợ",
-            singer:"Andiez",
-            source:"./asset/music/andiez.mp3",
-            ing:"./asset/img/andiezz.jpg"
-        },
-        {
             name:"Still Live",
             singer:"Big Bang",
             source:"./asset/music/still live.mp3",
             ing:"./asset/img/stilllive.jpg"
+        },
+        {
+            name:"Chờ Đợi Có Đáng Sợ",
+            singer:"Andiez",
+            source:"https://zingmp3.vn/bai-hat/Cho-Doi-Co-Dang-So-Andiez/ZZ9IAEC8.html",
+            ing:"./asset/img/andiezz.jpg"
+        },
+        {
+            name:"Giản Đơn",
+            singer:"NHA x Ry2c",
+            source:"./asset/music/giản đơn.mp3",
+            ing:"./asset/img/giandon.jpg"
+        },
+        {
+            name:"Heartbreak Melody",
+            singer:"Hospital Playlist",
+            source:"./asset/music/hp04.mp3",
+            ing:"./asset/img/hp04.jpg"
         },
         {
             name:"Cheer up",
@@ -70,12 +76,6 @@ let app ={
             singer:"NHA, Kim Nguyễn",
             source:"./asset/music/dtat.mp3",
             ing:"./asset/img/dtat.jpg"
-        },
-        {
-            name:"Giản Đơn",
-            singer:"NHA x Ry2c",
-            source:"./asset/music/giản đơn.mp3",
-            ing:"./asset/img/giandon.jpg"
         },
         {
             name:"HaNoi and U",
