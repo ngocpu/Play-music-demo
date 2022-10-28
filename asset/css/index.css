@@ -2,6 +2,7 @@
     --primary-color:rgb(212, 142, 20);;
     --text-color:#ccc;
     --black-color:#333;
+    --white-color:#fff;
 }
 
 *{
@@ -57,7 +58,7 @@ header h4{
 }
 header h2{
     font-size: 25px;
-    color: #fff;
+    color: var(--white-color);
 }
 .cd{
     display: flex;
