@@ -26,7 +26,7 @@ let app ={
         {
             name:"Chờ Đợi Có Đáng Sợ",
             singer:"Andiez",
-            source:"https://zingmp3.vn/bai-hat/Cho-Doi-Co-Dang-So-Andiez/ZZ9IAEC8.html",
+            source:"./asset/music/andiezz.mp3",
             ing:"./asset/img/andiezz.jpg"
         },
         {
